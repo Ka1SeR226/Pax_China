@@ -1,0 +1,50 @@
+state={
+    id=155
+    name="STATE_155"
+
+    history={
+        owner = SHU
+        victory_points = {
+			   11610 1
+	}
+        victory_points = {
+			   6720 1
+	}
+        victory_points = {
+			   6703 1
+	}
+        victory_points = {
+			   11627 1
+	}
+        victory_points = {
+			   11663 1
+	}
+        victory_points = {
+			   6685 1
+	}
+        victory_points = {
+			   686 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SHU
+    }
+
+    provinces={
+		682 686 701 3670 3680 3683 6685 6703 6720 9624 9643 9676 11610 11627 11663 13125 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

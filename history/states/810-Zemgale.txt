@@ -1,0 +1,38 @@
+state={
+    id=810
+    name="STATE_810"
+    
+    history={
+        owner = EBA
+        victory_points = {
+			   310 1
+	}
+        victory_points = {
+			   11222 1
+	}
+        victory_points = {
+			   7482 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EBA
+    }
+
+    provinces={
+		222 310 319 341 3298 6459 7482 9275 11222 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

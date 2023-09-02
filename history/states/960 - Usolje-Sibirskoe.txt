@@ -1,0 +1,29 @@
+state={
+    id=960
+    name="STATE_960"
+    
+    history={
+        owner = SIB
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SIB
+    }
+
+    provinces={
+		1810 7703 10549 10562 10661 12625
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,35 @@
+state={
+    id=143
+    name="STATE_143"
+
+    history={
+        owner = ESK
+        victory_points = {
+			   3022 1
+	}
+        victory_points = {
+			   9132 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = ESK
+    }
+
+    provinces={
+		21 107 115 3018 3022 3098 3183 6038 6041 6116 6118 6173 9069 9132 9139 11118 11173 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

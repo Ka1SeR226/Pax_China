@@ -1,0 +1,38 @@
+state={
+    id=2
+    name="STATE_2"
+
+    history={
+        owner = EIT
+        victory_points = {
+			   9904 5
+	}
+        victory_points = {
+			   11846 1
+	}
+        victory_points = {
+			   9794 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EIT
+    }
+
+    provinces={
+		923 6862 9794 9904 11751 11846 11882
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

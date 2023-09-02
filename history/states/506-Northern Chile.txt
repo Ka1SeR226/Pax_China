@@ -1,0 +1,29 @@
+state={
+    id=506
+    name="STATE_506"
+
+    history={
+        owner = COL
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = COL
+    }
+
+    provinces={
+		5131 5146 5171 5192 5228 8217 8231 11000 12914 12994 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

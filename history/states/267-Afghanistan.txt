@@ -1,0 +1,53 @@
+state={
+    id=267
+    name="STATE_267"
+
+    history={
+        owner = AFW
+        victory_points = {
+			   10737 2
+	}
+        victory_points = {
+			   12248 1
+	}
+        victory_points = {
+			   12831 1
+	}
+        victory_points = {
+			   12314 1
+	}
+        victory_points = {
+			   7448 1
+	}
+        victory_points = {
+			   7584 1
+	}
+        victory_points = {
+			   10781 1
+	}
+        victory_points = {
+			   12769 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = AFW
+    }
+
+    provinces={
+		5082 7448 7519 7584 7916 7984 10476 10737 10781 10826 10852 10896 12248 12314 12653 12769 12831 12877 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

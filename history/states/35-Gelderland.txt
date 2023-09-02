@@ -1,0 +1,44 @@
+state={
+    id=35
+    name="STATE_35"
+
+    history={
+        owner = EUF
+        victory_points = {
+			   6496 1
+	}
+        victory_points = {
+			   3262 1
+	}
+        victory_points = {
+			   9431 1
+	}
+        victory_points = {
+			   11456 1
+	}
+        victory_points = {
+			   11562 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EUF
+    }
+	
+    provinces={
+		480 3262 6496 6500 9431 11456 11562 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,44 @@
+state={
+    id=404
+    name="STATE_404"
+
+    history={
+        owner = MAF
+        victory_points = {
+			   4686 1
+	}
+        victory_points = {
+			   12329 1
+	}
+        victory_points = {
+			   12397 1
+	}
+        victory_points = {
+			   7600 1
+	}
+        victory_points = {
+			   7556 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = MAF
+    }
+
+    provinces={
+		 4578 4636 4686 7392 7556 7597 7600 7657 7777 10148 10353 10366 10452 10506 10601 12329 12340 12397 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

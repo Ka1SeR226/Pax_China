@@ -1,0 +1,44 @@
+state={
+    id=99
+    name="STATE_99"
+
+    history={
+        owner = EGE
+        victory_points = {
+			   6364 1
+	}
+        victory_points = {
+			   394 1
+	}
+        victory_points = {
+			   399 1
+	}
+        victory_points = {
+			   6235 1
+	}
+        victory_points = {
+			   3277 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EGE
+    }
+
+    provinces={
+                316 332 394 399 3206 3277 3341 6235 6364 11251 	
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,41 @@
+state={
+    id=180
+    name="STATE_180"
+
+    history={
+        owner = EPY
+        victory_points = {
+			   9817 1 
+	}
+        victory_points = {
+			   6921 1 
+	}
+        victory_points = {
+			   724 1 
+	}
+        victory_points = {
+			   6941 1 
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EPY
+    }
+
+    provinces={
+		724 877 3892 6921 6941 9817 11673 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

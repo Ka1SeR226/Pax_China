@@ -1,0 +1,41 @@
+state={
+    id=975
+    name="STATE_975"
+    
+    history={
+        owner = UNR
+        victory_points = {
+			   3491 1
+	}
+        victory_points = {
+			   523 1
+	}
+        victory_points = {
+			   11487 1
+	}
+        victory_points = {
+			   6519 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = UNR
+    }
+
+    provinces={
+		523 570 3491 6519 9424 9476 9531 11487 11513 11541
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

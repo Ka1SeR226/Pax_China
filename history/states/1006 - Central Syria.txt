@@ -1,0 +1,38 @@
+state={
+    id=1006
+    name="STATE_1006"
+    
+    history={
+        owner = SIR
+         victory_points = {
+			   1056 1
+	}
+        victory_points = {
+			   2013 1
+	}
+        victory_points = {
+			   12442 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SIR
+    }
+
+    provinces={
+                901 1056 1072 2013 7513 10087 10383 12316 12442
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

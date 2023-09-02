@@ -1,0 +1,29 @@
+state={
+    id=482
+    name="STATE_482"
+
+    history={
+        owner = EUM
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EUM
+    }
+
+    provinces={
+		2037 4898 7935 8097 10809 10830 10916 12745 12827 12850 12897 
+    }
+	
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

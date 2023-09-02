@@ -1,0 +1,44 @@
+state={
+    id=70
+    name="STATE_70"
+
+    history={
+        owner = RSL
+        victory_points = {
+			   9692 5
+	}
+        victory_points = {
+			   3484 1
+	}
+        victory_points = {
+			   3537 1
+	}
+        victory_points = {
+			   541 1
+	}
+        victory_points = {
+			   9539 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RSL
+    }
+
+    provinces={
+		541 3484 3537 9539 9692 11522 11539 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

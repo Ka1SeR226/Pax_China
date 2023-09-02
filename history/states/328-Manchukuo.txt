@@ -1,0 +1,29 @@
+state={
+    id=328
+    name="STATE_328"
+
+    history={
+        owner = CNR
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = CNR
+    }
+
+    provinces={
+		800 861 887 927 945 946 1567 3888 3913 3929 3932 3947 3949 4503 4572 6868 6905 6947 7523 7591 7652 7663 9759 9782 9803 9841 9848 9866 9883 9913 9928 10433 11744 11781 11823 11850 11862 11864 12412 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

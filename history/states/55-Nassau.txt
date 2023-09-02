@@ -1,0 +1,44 @@
+state={
+    id=55
+    name="STATE_55"
+
+    history={
+        owner = EGE
+        victory_points = {
+			   6488 1
+	}
+        victory_points = {
+			   6444 1
+	}
+        victory_points = {
+			   564 1
+	}
+        victory_points = {
+			   589 1
+	}
+        victory_points = {
+			   9547 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EGE
+    }
+
+    provinces={
+		564 589 3397 3524 3574 6444 6488 6549 9486 9524 9547 11445 11533 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

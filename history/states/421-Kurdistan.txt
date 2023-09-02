@@ -1,0 +1,41 @@
+state={
+    id=421
+    name="STATE_421"
+
+    history={
+        owner = IRA
+        victory_points = {
+			   12773 1
+	}
+        victory_points = {
+			   5050 1
+	}
+        victory_points = {
+			   9816 1
+	}
+        victory_points = {
+			   10774 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = IRA
+    }
+
+    provinces={
+		829 4943 5050 5098 9816 10774 12773 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

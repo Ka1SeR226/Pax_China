@@ -1,0 +1,35 @@
+state={
+    id=87
+    name="STATE_87"
+
+    history={
+        owner = RPR
+        victory_points = {
+			   9508 1
+	}
+        victory_points = {
+			   9439 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RPR
+    }
+
+    provinces={
+		493 584 9439 9508 9546 11428 11515 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

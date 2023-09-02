@@ -1,0 +1,38 @@
+state={
+    id=405
+    name="STATE_405"
+
+    history={
+        owner = MAF
+        victory_points = {
+			   1459 1
+	}
+        victory_points = {
+			   10488 1
+	}
+        victory_points = {
+			   11687 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = MAF
+    }
+
+    provinces={
+		1459 4629 7682 10488 11687 
+    }
+	
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

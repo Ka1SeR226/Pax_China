@@ -1,0 +1,29 @@
+state={
+    id=750
+    name="STATE_750"
+    
+    history={
+        owner = CNR
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = CNR
+    }
+
+    provinces={
+		4041 4896 5030 7101 7201 7279 7434 10006 10304 10757 10822 12086 12414 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

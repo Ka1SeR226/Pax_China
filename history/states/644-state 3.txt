@@ -1,0 +1,32 @@
+state={
+    id=644
+    name="STATE_644"
+    
+    history={
+        owner = SIB
+        victory_points = {
+			   1819 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SIB
+    }
+
+    provinces={
+		1745 1819 2877 4006 4229 4455 4878 6211 12549 12592 12634 13061
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

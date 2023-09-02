@@ -1,0 +1,65 @@
+state={
+    id=440
+    name="STATE_440"
+
+    history={
+        owner = PKS
+        victory_points = {
+			   10772 1
+	}
+        victory_points = {
+			   10066 1
+	}
+        victory_points = {
+			   10173 1
+	}
+        victory_points = {
+			   8007 1
+	}
+        victory_points = {
+			   12005 1
+	}
+        victory_points = {
+			   8022 2
+	}
+        victory_points = {
+			   9084 1
+	}
+        victory_points = {
+			   12822 1
+	}
+        victory_points = {
+			   10843 1
+	}
+        victory_points = {
+			   10898 1
+	}
+        victory_points = {
+			   4979 1
+	}
+        victory_points = {
+			   10139 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = PKS
+    }
+
+    provinces={
+		4979 8007 8022 8106 9084 10066 10139 10173 10772 10843 10887 10898 12005 12792 12822 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

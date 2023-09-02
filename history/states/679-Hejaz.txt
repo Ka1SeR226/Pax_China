@@ -1,0 +1,35 @@
+state={
+    id=679
+    name="STATE_679"
+    
+    history={
+        owner = SAR
+        victory_points = {
+			   7934 1
+	}
+        victory_points = {
+			   2033 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SAR
+    }
+
+    provinces={
+		2033 4981 5099 7934 10748 10835 12758 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

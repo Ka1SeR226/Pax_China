@@ -1,0 +1,44 @@
+state={
+    id=345
+    name="STATE_345"
+
+    history={
+        owner = NOE
+        victory_points = {
+			   10056 1
+	}
+        victory_points = {
+			   11810 1
+	}
+        victory_points = {
+			   7143 1
+	}
+        victory_points = {
+			   4127 1
+	}
+        victory_points = {
+			   1122 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = NOE
+    }
+
+    provinces={
+		1122 4008 4124 4127 7026 7143 10056 11810 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

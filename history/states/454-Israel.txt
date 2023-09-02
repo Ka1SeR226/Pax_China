@@ -1,0 +1,50 @@
+state={
+    id=454
+    name="STATE_454"
+
+    history={
+        owner = IGB
+        victory_points = {
+			   1086 2
+	}
+        victory_points = {
+			   4206 1
+	}
+        victory_points = {
+			   1065 1
+	}
+        victory_points = {
+			   4088 1
+	}
+        victory_points = {
+			   1201 1
+	}
+        victory_points = {
+			   7176 1
+	}
+        victory_points = {
+			   1015 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = IGB
+    }
+
+    provinces={
+		1015 1065 1086 1201 4088 4206 7107 7176 11970 1
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

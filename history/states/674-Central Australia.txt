@@ -1,0 +1,29 @@
+state={
+    id=674
+    name="STATE_674"
+    
+    history={
+        owner = AUN
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = AUN
+    }
+
+    provinces={
+		2133 2177 2186 2205 2223 5138 5206 7623 8134 8155 8206 8237 10336 10473 10936 10955 10979 11013 12904 12906 12912 12915 12926 12936 12992 13131 13132 13171 13172 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

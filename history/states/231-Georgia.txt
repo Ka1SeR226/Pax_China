@@ -1,0 +1,50 @@
+state={
+    id=231
+    name="STATE_231"
+
+    history={
+        owner = GES
+        victory_points = {
+			   1599 2
+	}
+        victory_points = {
+			   3656 1
+	}
+        victory_points = {
+			   3658 1
+	}
+        victory_points = {
+			   6671 1
+	}
+        victory_points = {
+			   772 1
+	}
+        victory_points = {
+			   9626 1
+	} 
+        victory_points = {
+			   4605 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = GES
+    }
+
+    provinces={
+		654 772 1530 1599 3653 3656 3658 4534 4605 6436 6669 6671 9626 9702 12309 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

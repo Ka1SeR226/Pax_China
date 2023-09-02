@@ -1,0 +1,38 @@
+state={
+    id=444
+    name="STATE_444"
+
+    history={
+        owner = PKS
+        victory_points = {
+			   12774 1
+	}
+        victory_points = {
+			   7917 1
+	}
+        victory_points = {
+			   5043 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = PKS
+    }
+
+    provinces={
+		1179 5043 5075 7917 8013 8066 12761 12774 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

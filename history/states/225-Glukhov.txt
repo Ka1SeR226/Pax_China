@@ -1,0 +1,32 @@
+state={
+    id=225
+    name="STATE_225"
+
+    history={
+        owner = UNR
+        victory_points = {
+			   3520 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = UNR
+    }
+
+    provinces={
+		501 522 3455 3520 3557 9413 11397 11462 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

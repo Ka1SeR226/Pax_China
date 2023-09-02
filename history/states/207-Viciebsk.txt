@@ -1,0 +1,35 @@
+state={
+    id=207
+    name="STATE_207"
+
+    history={
+        owner = RBE
+        victory_points = {
+			   11241 1
+	}
+        victory_points = {
+			   3331 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RBE
+    }
+
+    provinces={
+		323 3331 6354 9241 9323 11220 11241 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

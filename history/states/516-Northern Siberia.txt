@@ -1,0 +1,35 @@
+state={
+    id=516
+    name="STATE_516"
+
+    history={
+        owner = SIB
+        victory_points = {
+			   12643 1
+	}
+        victory_points = {
+			   10607 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SIB
+    }
+
+    provinces={
+		2900 2923 2972 4692 4812 4859 9224 10607 11122 11261 11328 12643 12687 13064 13065 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

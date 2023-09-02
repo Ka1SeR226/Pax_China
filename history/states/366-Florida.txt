@@ -1,0 +1,53 @@
+state={
+    id=366
+    name="STATE_366"
+
+    history={
+        owner = AWR
+        victory_points = {
+			   12381 1
+	}
+        victory_points = {
+			   1843 1
+	}
+        victory_points = {
+			   7388 1
+	}
+        victory_points = {
+			   866 1
+	}
+        victory_points = {
+			   9834 1
+	}
+        victory_points = {
+			   10407 1
+	}
+        victory_points = {
+			   12752 1
+	}
+        victory_points = {
+			   10489 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = AWR
+    }
+
+    provinces={
+		866 1556 1572 1584 1843 1913 7388 9834 10352 10380 10407 10489 12353 12381 12439 12752 
+    }
+	
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

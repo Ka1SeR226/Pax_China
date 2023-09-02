@@ -1,0 +1,38 @@
+state={
+    id=48
+    name="STATE_48"
+
+    history={
+        owner = BUR
+        victory_points = {
+			   949 5
+	}
+        victory_points = {
+			   935 1
+	}
+        victory_points = {
+			   9771 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = BUR
+    }
+
+    provinces={
+		793 935 949 965 3908 3971 9771 11754 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

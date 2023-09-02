@@ -1,0 +1,50 @@
+state={
+    id=46
+    name="STATE_46"
+
+    history={
+        owner = RST
+        victory_points = {
+			   9617 5
+	}
+        victory_points = {
+			   657 1
+	}
+        victory_points = {
+			   3663 1
+	}
+        victory_points = {
+			   11636 1
+	}
+        victory_points = {
+			   6695 1
+	}
+        victory_points = {
+			   9651 1
+	}
+        victory_points = {
+			   3076 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RST
+    }
+
+    provinces={
+		657 660 674 687 818 3076 3636 3639 3663 6658 6677 6695 9617 9635 9651 11603 11619 11636 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

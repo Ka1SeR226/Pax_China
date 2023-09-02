@@ -1,0 +1,41 @@
+state={
+    id=590
+    name="STATE_590"
+    
+    history={
+        owner = MAF
+        victory_points = {
+			   1223 2
+	}
+        victory_points = {
+			   7874 1
+	}
+        victory_points = {
+			   7298 1
+	}
+        victory_points = {
+			   7425 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = MAF
+    }
+
+    provinces={
+		1223 1229 1309 1375 1391 1418 1662 1680 1694 4232 4238 4281 4309 4333 4850 7298 7326 7383 7407 7425 7741 7874 10211 10239 10308 10633 12152 12619 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

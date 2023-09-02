@@ -1,0 +1,44 @@
+state={
+    id=44
+    name="STATE_44"
+
+    history={
+        owner = ALE
+        victory_points = {
+			   9914 2
+	}
+        victory_points = {
+			   13255 1
+	}
+        victory_points = {
+			   9875 1
+	}
+        victory_points = {
+			   3884 1
+	}
+        victory_points = {
+			   3896 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = ALE
+    }
+
+    provinces={
+		3448 3884 3896 6900 9780 9875 9914 11762 11767 13255
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

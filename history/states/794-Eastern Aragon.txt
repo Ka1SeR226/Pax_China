@@ -1,0 +1,35 @@
+state={
+    id=794
+    name="STATE_794"
+    
+    history={
+        owner = EPY
+        victory_points = {
+			   11821 1
+	}
+        victory_points = {
+			   798 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EPY
+    }
+
+    provinces={
+		790 798 871 899 915 3909 3954 9813 11793 11819 11821 13222 13223 13225 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

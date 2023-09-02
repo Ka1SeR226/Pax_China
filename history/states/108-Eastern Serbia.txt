@@ -1,0 +1,44 @@
+state={
+    id=108
+    name="STATE_108"
+
+    history={
+        owner = SNS
+        victory_points = {
+			   9906 1
+	}
+        victory_points = {
+			   6998 1
+	}
+        victory_points = {
+			   6970 1
+	}
+        victory_points = {
+			   6953 1
+	}
+        victory_points = {
+			   11832 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SNS
+    }
+
+    provinces={
+		630 3922 3939 6953 6970 6998 9602 9756 9906 11832 11887 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

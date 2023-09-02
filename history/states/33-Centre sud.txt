@@ -1,0 +1,32 @@
+state={
+    id=33
+    name="STATE_33"
+
+    history={
+        owner = EFR
+        victory_points = {
+			   3655 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EFR
+    }
+
+    provinces={
+		651 669 3621 3626 3655 6648 6651 9629 11869 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

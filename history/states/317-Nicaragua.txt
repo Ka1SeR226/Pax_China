@@ -1,0 +1,29 @@
+state={
+    id=317
+    name="STATE_317"
+
+    history={
+        owner = RNI
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RNI
+    }
+
+    provinces={
+		1988 2075 10728 12738 13139 13178 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

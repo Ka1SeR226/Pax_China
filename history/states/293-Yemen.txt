@@ -1,0 +1,44 @@
+state={
+    id=293
+    name="STATE_293"
+
+    history={
+        owner = YRE
+        victory_points = {
+			   10840 2
+	}
+        victory_points = {
+			   10752 1
+	}
+        victory_points = {
+			   1973 1
+	}
+        victory_points = {
+			   1920 1
+	}
+        victory_points = {
+			   5074 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = YRE
+    }
+
+    provinces={
+		1920 1973 4924 5074 10752 10840 12821 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

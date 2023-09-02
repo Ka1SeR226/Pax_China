@@ -1,0 +1,44 @@
+state={
+    id=185
+    name="STATE_185"
+
+    history={
+        owner = EGR
+        victory_points = {
+			   3914 1
+	}
+        victory_points = {
+			   11786 1
+	}
+        victory_points = {
+			   1205 1
+	}
+        victory_points = {
+			   9837 1
+	}
+        victory_points = {
+			   10203 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EGR
+    }
+
+    provinces={
+		841 1106 1205 3914 3980 9805 9837 9916 10203 11786 11895 12001 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

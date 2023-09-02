@@ -1,0 +1,59 @@
+state={
+    id=219
+    name="STATE_219"
+
+    history={
+        owner = RUS
+        victory_points = {
+			   9278 1
+	}
+        victory_points = {
+			   11362 1
+	}
+        victory_points = {
+			   6316 1
+	}
+        victory_points = {
+			   9345 1
+	}
+        victory_points = {
+			   6356 1
+	}
+        victory_points = {
+			   3290 1
+	}
+        victory_points = {
+			   9356 1
+	}
+        victory_points = {
+			   9235 1
+	}
+        victory_points = {
+			   11330 1
+	}
+        victory_points = {
+			   11217 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RUS
+    }
+
+    provinces={
+		350 3290 6316 6356 9235 9278 9345 9356 11217 11330 11362
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

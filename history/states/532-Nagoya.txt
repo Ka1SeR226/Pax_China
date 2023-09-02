@@ -1,0 +1,47 @@
+state={
+    id=532
+    name="STATE_532"
+
+    history={
+        owner = RJA
+	victory_points = {
+			   7157 1
+        }
+	victory_points = {
+			   10125 1
+        }
+	victory_points = {
+			   12097 1
+        }
+	victory_points = {
+			   7087 1
+        }
+	victory_points = {
+			   4172 1
+        }
+	victory_points = {
+			   12072 1
+        }
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RJA
+    }
+
+    provinces={
+		4069 4172 7087 7157 7187 10100 10125 12072 12097 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

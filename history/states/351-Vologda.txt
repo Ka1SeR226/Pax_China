@@ -1,0 +1,32 @@
+state={
+    id=351
+    name="STATE_351"
+
+    history={
+        owner = RUS
+        victory_points = {
+			   9131 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RUS
+    }
+
+    provinces={
+		75 84 106 174 196 2996 3079 3087 3099 3157 3164 3175 6091 6112 6119 6190 9043 9110 9113 9131 9133 9168 9199 9202 9210 9222 11035 11086 11095 11107 11143 11177 11213 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

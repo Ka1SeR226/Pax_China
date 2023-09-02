@@ -1,0 +1,29 @@
+state={
+    id=866
+    name="STATE_866"
+    
+    history={
+        owner = CND
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = CND
+    }
+
+    provinces={
+		761 763 3736 4753 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,35 @@
+state={
+    id=659
+    name="STATE_659"
+    
+    history={
+        owner = ALK
+        victory_points = {
+			   2029 2
+	}
+        victory_points = {
+			   4976 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = ALK
+    }
+
+    provinces={
+		2029 4976 8000 12894 13079 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

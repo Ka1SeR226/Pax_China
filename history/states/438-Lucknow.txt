@@ -1,0 +1,29 @@
+state={
+    id=438
+    name="STATE_438"
+
+    history={
+        owner = IND
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = IND
+    }
+
+    provinces={
+		1377 1983 2005 4045 4299 4410 5040 5055 5086 5096 7064 7938 8082 8114 9951 9973 10332 10794 12137 12777 12786 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

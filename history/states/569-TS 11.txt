@@ -1,0 +1,44 @@
+state={
+    id=569
+    name="STATE_569"
+
+    history={
+        owner = RFE
+        victory_points = {
+			   7757 1
+	}
+        victory_points = {
+			   1369 1
+	}
+        victory_points = {
+			   4665 1
+	}
+        victory_points = {
+			   4789 1
+	}
+        victory_points = {
+			   4793 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RFE
+    }
+
+    provinces={
+		1369 4665 4789 4793 7757 7886 12631 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

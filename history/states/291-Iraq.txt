@@ -1,0 +1,56 @@
+state={
+    id=291
+    name="STATE_291"
+
+    history={
+        owner = IQR
+        victory_points = {
+			   2097 2
+	}
+        victory_points = {
+			   2089 1
+	}
+        victory_points = {
+			   8001 1
+	}
+        victory_points = {
+			   12046 1
+	}
+        victory_points = {
+			   3795 1
+	}
+        victory_points = {
+			   10876 1
+	}
+        victory_points = {
+			   78 1
+	}
+        victory_points = {
+			   12855 1
+	}
+        victory_points = {
+			   7994 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = IQR
+    }
+
+    provinces={
+		78 2004 2089 2097 3795 7977 7994 8001 10876 12046 12726 12839 12855 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,44 @@
+state={
+    id=232
+    name="STATE_232"
+
+    history={
+        owner = NCI
+        victory_points = {
+			   3668 1
+	}
+        victory_points = {
+			   3682 1
+	}
+        victory_points = {
+			   7624 1
+	}
+        victory_points = {
+			   4463 1
+	}
+        victory_points = {
+			   9645 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = NCI
+    }
+
+    provinces={
+		1450 3668 3682 3711 4463 7554 7624 9645 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,38 @@
+state={
+    id=154
+    name="STATE_154"
+
+    history={
+        owner = SHU
+        victory_points = {
+			   730 1
+	}
+        victory_points = {
+			   6700 1
+	}
+        victory_points = {
+			   3730 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SHU
+    }
+
+    provinces={
+		679 699 730 3730 6670 6700 6735 9656 9706 11625 11644 11646 11659 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

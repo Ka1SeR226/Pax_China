@@ -1,0 +1,38 @@
+state={
+    id=148
+    name="STATE_148"
+
+    history={
+        owner = ESK
+        victory_points = {
+			   124 1
+	}
+        victory_points = {
+			   11125 1
+	}
+        victory_points = {
+			   6179 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = ESK
+    }
+
+    provinces={
+		30 103 124 162 167 203 2992 3026 3055 3069 3097 3107 3153 3156 3158 3193 6045 6061 6076 6087 6128 6137 6142 6179 9112 9189 9223 11030 11115 11125 11130 11164 11167 11204 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

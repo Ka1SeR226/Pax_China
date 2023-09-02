@@ -1,0 +1,35 @@
+state={
+    id=24
+    name="STATE_24"
+
+    history={
+        owner = EFR
+        victory_points = {
+			   9492 1
+	}
+        victory_points = {
+			   512 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EFR
+    }
+
+    provinces={
+		512 3493 3671 6518 6533 6688 9492 11611 11631 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

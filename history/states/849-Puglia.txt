@@ -1,0 +1,41 @@
+state={
+    id=849
+    name="STATE_849"
+    
+    history={
+        owner = EIT
+        victory_points = {
+			   9784 1
+	}
+        victory_points = {
+			   11837 1
+	}
+        victory_points = {
+			   6939 1
+	}
+        victory_points = {
+			   6843 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EIT
+    }
+	
+    provinces={
+		883 6843 6939 6980 6979 9784 11837 11998
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

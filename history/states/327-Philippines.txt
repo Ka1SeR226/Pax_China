@@ -1,0 +1,29 @@
+state={
+    id=327
+    name="STATE_327"
+
+    history={
+        owner = RPP
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = RPP
+    }
+
+    provinces={
+		1221 1288 7275 7323 7351 10165 10236 10265 12236 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

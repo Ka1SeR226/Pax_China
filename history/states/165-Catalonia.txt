@@ -1,0 +1,44 @@
+state={
+    id=165
+    name="STATE_165"
+
+    history={
+        owner = ECA
+        victory_points = {
+			   9764 5
+	}
+        victory_points = {
+			   9797 1
+	}
+        victory_points = {
+			   6812 1
+	}
+        victory_points = {
+			   872 1
+	}
+        victory_points = {
+			   854 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = ECA
+    }
+
+    provinces={
+		854 872 897 3898 3899 6812 6836 6865 6927 6966 9764 9797 9824 11779 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

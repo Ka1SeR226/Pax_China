@@ -1,0 +1,29 @@
+state={
+    id=634
+    name="STATE_634"
+    
+    history={
+        owner = SOI
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SOI
+    }
+
+    provinces={
+		1042 1085 1269 1358 1370 4226 4252 4292 4378 7437 10234 10291 10319 12265 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

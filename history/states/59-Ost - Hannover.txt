@@ -1,0 +1,53 @@
+state={
+    id=59
+    name="STATE_59"
+
+    history={
+        owner = EGE
+        victory_points = {
+			   3326 1
+	}
+        victory_points = {
+			   6377 1
+	}
+        victory_points = {
+			   526 1
+	}
+        victory_points = {
+			   9375 1
+	}
+        victory_points = {
+			   6513 1
+	}
+        victory_points = {
+			   374 1
+	}
+        victory_points = {
+			   11493 1
+	}
+        victory_points = {
+			   11402 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EGE
+    }
+
+    provinces={
+		374 526 3271 3326 3395 6218 6263 6298 6325 6349 6377 6513 9238 9264 9375 11402 11468 11493 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

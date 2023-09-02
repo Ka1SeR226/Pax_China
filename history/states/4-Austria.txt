@@ -1,0 +1,41 @@
+state={
+    id=4
+    name="STATE_4"
+
+    history={
+        owner = EAL
+        victory_points = {
+			   11666 5
+	}
+        victory_points = {
+			   9648 1
+	}
+        victory_points = {
+			   704 1
+	}
+        victory_points = {
+			   9661 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EAL
+    }
+
+    provinces={
+		653 704 3700 3718 6690 6739 9527 9646 9648 9661 9679 11630 11666 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

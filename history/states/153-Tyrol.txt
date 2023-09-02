@@ -1,0 +1,38 @@
+state={
+    id=153
+    name="STATE_153"
+
+    history={
+        owner = EAL
+        victory_points = {
+			   11618 1
+	}
+        victory_points = {
+			   6673 1
+	}
+        victory_points = {
+			   9636 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = EAL
+    }
+
+    provinces={
+		668 671 673 3675 6673 9633 9636 11618 11634 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

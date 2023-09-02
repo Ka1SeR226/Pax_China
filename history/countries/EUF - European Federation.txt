@@ -1,0 +1,245 @@
+capital = 6
+
+if = {
+	limit = {
+		NOT = {
+			has_dlc = "No Step Back"
+		}
+	}
+	set_oob = "EUF_2059"
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_oob = "EUF_2059_nsb"
+}
+
+starting_train_buffer = 2
+set_fuel_ratio = 0.8
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_mountaineers = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	fighter1 = 1
+	early_bomber = 1
+	tactical_bomber1 = 1
+	strategic_bomber1 = 1
+	CAS1 = 1
+	naval_bomber1 = 1
+	basic_train = 1
+	mobile_warfare = 1
+	trade_interdiction = 1
+	formation_flying = 1
+	synth_oil_experiments = 1
+	fuel_silos = 1
+	fuel_refining = 1
+}
+if = {
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
+	set_technology = {
+		gwtank = 1
+		basic_light_tank = 1
+		improved_light_tank = 1
+		basic_heavy_tank = 1
+	}
+}
+if = {
+	limit = {
+		has_dlc = "No Step Back"
+	}
+	set_technology = {
+		gwtank_chassis = 1
+		basic_light_tank_chassis = 1
+		improved_light_tank_chassis = 1
+		basic_heavy_tank_chassis = 1
+		engine_tech_1 = 1
+	}
+}
+if = {
+	limit = {
+		not = { has_dlc = "Man the Guns" }
+	}
+	set_technology = {
+		early_submarine = 1
+		basic_submarine = 1
+		early_destroyer = 1
+		basic_destroyer = 1
+		early_light_cruiser = 1
+		basic_light_cruiser = 1
+		early_heavy_cruiser = 1
+		basic_heavy_cruiser = 1
+		early_battleship = 1
+		basic_battleship = 1
+		early_battlecruiser = 1
+		transport = 1
+	}
+	set_naval_oob = "EUF_2059_naval"
+}
+if = {
+	limit = {
+		has_dlc = "Man the Guns"
+	}
+	set_technology = {
+		basic_naval_mines = 1
+		submarine_mine_laying = 1
+		early_ship_hull_light = 1
+		basic_ship_hull_light = 1
+		early_ship_hull_cruiser = 1
+		basic_ship_hull_cruiser = 1
+		early_ship_hull_heavy = 1
+		basic_ship_hull_heavy = 1
+		panzerschiffe = 1
+		pre_dreadnoughts = 1
+		early_ship_hull_submarine = 1
+		basic_ship_hull_submarine = 1
+		mtg_transport = 1
+		basic_torpedo = 1
+		improved_ship_torpedo_launcher = 1
+		basic_battery = 1
+		basic_light_battery = 1
+		basic_medium_battery = 1
+		basic_heavy_battery = 1
+		basic_secondary_battery = 1
+		improved_secondary_battery = 1
+		basic_depth_charges = 1
+		sonar = 1
+		basic_cruiser_armor_scheme = 1
+	}
+	set_naval_oob = "EUF_2059_naval_mtg"
+}
+
+set_research_slots = 3
+set_convoys = 200
+set_stability = 0.75
+set_war_support = 0.3
+
+set_politics = {
+ ruling_party = democratic
+ last_election = "2053.7.1"
+ election_frequency= 48
+ elections_allowed = no
+}
+
+set_popularities = {
+ democratic = 78
+ fascism = 6
+ communism = 16
+}
+
+create_country_leader = {
+ name = "Matvey Vernandskiy"
+ desc = ""
+ picture = "gfx/leaders/EUF/Matvey_Vernandskiy.dds"
+ expire = "2089.1.1"
+ ideology = liberalism
+ traits = { }
+}
+
+if = {
+	limit = {
+		OR = {
+			has_dlc = "Together for Victory"
+			has_dlc = "Man the Guns"
+		}
+	}
+	set_autonomy = {
+		target = EGE
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EFR
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EAL
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EIT
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EIL
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = ECA
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EPY
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EBO
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EGR
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EBA
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = ESK
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EBR
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EAT
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EOI
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EOC
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = EIR
+		autonomous_state = autonomy_integrated_puppet
+	}
+        set_autonomy = {
+		target = RUS
+		autonomous_state = autonomy_dominion
+	}
+}
+
+create_faction = The_Brussels_Treaty
+add_to_faction = EUF
+add_to_faction = EGE
+add_to_faction = EFR
+add_to_faction = EAL
+add_to_faction = EIT
+add_to_faction = EIL
+add_to_faction = ECA
+add_to_faction = EPY
+add_to_faction = EBO
+add_to_faction = EGR
+add_to_faction = EBA
+add_to_faction = ESK
+add_to_faction = EBR
+add_to_faction = EAT
+add_to_faction = EOI
+add_to_faction = EOC
+add_to_faction = EIR
+add_to_faction = RUS

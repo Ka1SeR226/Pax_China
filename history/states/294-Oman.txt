@@ -1,0 +1,44 @@
+state={
+    id=294
+    name="STATE_294"
+
+    history={
+        owner = SOE
+        victory_points = {
+			   10760 2
+	}
+        victory_points = {
+			   2103 1
+	}
+        victory_points = {
+			   4993 1
+	}
+        victory_points = {
+			   5049 1
+	}
+        victory_points = {
+			   8020 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = SOE
+    }
+
+    provinces={
+		1947 2018 2059 2103 4993 5049 8002 8020 10760 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,29 @@
+state={
+    id=302
+    name="STATE_302"
+
+    history={
+        owner = BEL
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = BEL
+    }
+
+    provinces={
+		2174 5179 5229 5230 8157 8225 10938 10952 10987 12930 12979 13134 13174 13195 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}

@@ -1,0 +1,38 @@
+state={
+    id=382
+    name="STATE_382"
+
+    history={
+        owner = AWR
+        victory_points = {
+			   1827 1
+	}
+        victory_points = {
+			   10588 1
+	}
+        victory_points = {
+			   7780 1
+	}
+        2058.1.1 = {
+        buildings = {
+	     infrastructure = 3 #was: 5
+             arms_factory = 1
+             industrial_complex = 2
+             anti_air_building = 2
+             fuel_silo = 1
+             synthetic_refinery = 1
+		}
+            }
+
+        add_core_of = AWR
+    }
+
+    provinces={
+		868 1658 1738 1809 1827 3869 6887 7684 7780 7999 9792 10535 10588 11772 12570 12627 12642 
+    }
+
+    manpower= 250000
+    buildings_max_level_factor=1.000
+    local_supplies=0.0
+    state_category=large_city
+}
