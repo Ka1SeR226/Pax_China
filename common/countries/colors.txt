@@ -452,3 +452,15 @@ EAF = {
 	color = rgb { 184 134 11 } 
 	color_ui = rgb { 218 165 11 } 
 }
+EGY = { 
+	color = rgb { 0 255 0 } 
+	color_ui = rgb { 0 100 0 } 
+}
+SUD = { 
+	color = rgb { 0 90 0 } 
+	color_ui = rgb { 0 75 0 } 
+}
+ERI = { 
+	color = rgb { 214 84 6 } 
+	color_ui = rgb { 138 55 4 } 
+}
